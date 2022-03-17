@@ -1,7 +1,12 @@
-echo "# REDDNoC" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/REDDNoC/REDDNoC.git
-git push -u origin main
+- 👋 Hi, I’m @REDDNoC
+- 👀 I’m interested in Cryptocurrency Exchanges, Coin Dev(DAMA), Gaming/NFTs/DeFi trading, Solidity and Blockchain Development
+- 🌱 I’m currently learning PYTHON, Solidity(REMIX), NEXT.js, Hardgat, Moralis.io, Vyper, Rust,brownie, Dapptools, 
+- 💞️ I’m looking to create a Crypto Project invloving Coding a Cryptoexchange using (CCXT), 
+- 📫 How to reach me, several points of contact here ---> https://linktr.ee/danielbrenes
+
+Crypto Enthusiast and studying Developer. Discord: http://discord.gg/VWThUSFr 
+
+<!---
+REDDNoC/REDDNoC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
